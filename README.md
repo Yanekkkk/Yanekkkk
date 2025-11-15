@@ -3,7 +3,7 @@
   <b>测试开发工程师 | 功能测试 | 自动化 & 性能 | 测试平台</b>
 </p>
 <p align="center">
-  <a href="https://github.com/Yanekkk" target="_blank"><img src="https://img.shields.io/badge/GitHub-Yanekkk-black?logo=github"></a>
+  <a href="https://github.com/Yanekkkk" target="_blank"><img src="https://img.shields.io/badge/GitHub-Yanekkkk-black?logo=github"></a>
 </p>
 
 ### 👏 关于我
