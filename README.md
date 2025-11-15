@@ -40,9 +40,7 @@
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
 ### 🏆 记录
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Yanekkkk"&theme=onedark/> </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Yanekkkk&theme=onedark"/> </div>
 
 ### 📫 联系我
 - **Email**: Yanekkk@126.com
