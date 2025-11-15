@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);Yanek同学祝您今天愉快!&center=true&size=27"> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);Yanek同学祝您今天愉快!&center=true&size=27"> </h1>
 
 <div align="center">
   <picture>
