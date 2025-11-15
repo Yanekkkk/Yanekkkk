@@ -1,5 +1,13 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);Yanek同学祝您今天愉快!&center=true&size=27"> </h1>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+</div>
+
 <h1 align="center">Hi, I'm Yanek🐟</h1>
 <p align="center">
   <b>测试开发工程师 | 功能测试 | 自动化 & 性能 | 测试平台</b>
@@ -7,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/Yanekkkk" target="_blank"><img src="https://img.shields.io/badge/GitHub-Yanekkkk-black?logo=github"></a>
 </p>
-
+  
 ### 👏 关于我
 - 测试开发工程师，目前主攻业务测试
 - 擅长：自动化测试、性能测试、测试平台开发
