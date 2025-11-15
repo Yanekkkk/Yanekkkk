@@ -1,3 +1,5 @@
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);Yanek同学祝您今天愉快!&center=true&size=27"> </h1>
+
 <h1 align="center">Hi, I'm Yanek🐟</h1>
 <p align="center">
   <b>测试开发工程师 | 功能测试 | 自动化 & 性能 | 测试平台</b>
