@@ -42,6 +42,8 @@
 ### 🏆 记录
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Yanekkkk"&theme=onedark/> </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 📫 联系我
 - **Email**: Yanekkk@126.com
 - **GitHub**: [https://github.com/Yanekkkk](https://github.com/Yanekkkk)
