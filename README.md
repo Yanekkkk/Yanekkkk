@@ -39,9 +39,6 @@
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
-### 🏆 记录
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Yanekkkk&theme=onedark"/> </div>
-
 ### 📫 联系我
 - **Email**: Yanekkk@126.com
 - **GitHub**: [https://github.com/Yanekkkk](https://github.com/Yanekkkk)
